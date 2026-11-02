@@ -1,0 +1,10 @@
+# Dependencies observed in archived imports; original versions were not recorded.
+opencv-python
+numpy
+pyzbar
+pyserial
+reportlab
+PyDrive
+qrcode
+Pillow
+matplotlib

@@ -1,0 +1,332 @@
+[
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Arduino.py",
+    "package_path": "integrated/Arduino.py",
+    "sha256": "796dc68155a19154994642c4525d34280fbdb4241b53098bfe4d54bd3ea854de",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Class-2024-04-30.py",
+    "package_path": "integrated/Class-2024-04-30.py",
+    "sha256": "74b4c757aec3d6d289e0411c557c7a60ef5895b73d49b10b50f99979eb6563ab",
+    "drive_ids_removed": true
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\MasterMind.py",
+    "package_path": "integrated/MasterMind.py",
+    "sha256": "043cf6efc5da71193981f8d5ae2d3e27db90bba077302843253fb1d9cb1ee8dc",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\ReportUpload.py",
+    "package_path": "integrated/ReportUpload.py",
+    "sha256": "7c4c5d6f1271817b1c36ba7abe44cb112fc5e3d91087918caa25c4fa0e1d805b",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Upload_code.py",
+    "package_path": "integrated/Upload_code.py",
+    "sha256": "b2adf19107d9dffefab714d0767d3ddcb6d8d19136f955be73f5752bde94d3d1",
+    "drive_ids_removed": true
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Templates\\Blue1.JPG",
+    "package_path": "integrated/Templates/Blue1.JPG",
+    "sha256": "7cf73789e991032fd5aa523c8ebc5fd978b8626234ddbdba7eecd72973ceb5ca",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Templates\\Green1.JPG",
+    "package_path": "integrated/Templates/Green1.JPG",
+    "sha256": "44e97e95004f84bfa1abfc607c20d9f8e9ccafa5f23f63fc653e2e4dcd6d6415",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Templates\\Green2.JPG",
+    "package_path": "integrated/Templates/Green2.JPG",
+    "sha256": "7879a7e0d8f88e783d95ee39f7d51310710e31c2e79c9563968877d2dfd91c7d",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Templates\\Orange1.JPG",
+    "package_path": "integrated/Templates/Orange1.JPG",
+    "sha256": "282a8c2e5681bc0b0b7c5b63845dd50a75b413744efa627d2a26922333ed6053",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Templates\\Purple1.JPG",
+    "package_path": "integrated/Templates/Purple1.JPG",
+    "sha256": "11416b4b9ab71d72174227c70fff89e1178e8aa738b253829f524a1188f03027",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Templates\\Red1.JPG",
+    "package_path": "integrated/Templates/Red1.JPG",
+    "sha256": "b01d6f0b55dc5202218587ed2939c8792e0c8a9f416bd177bf3431a3c618403b",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Templates\\Red2.JPG",
+    "package_path": "integrated/Templates/Red2.JPG",
+    "sha256": "ca8058efad83d8211aac5ba854ceee3f66087f2a7696dc98e3dc04dc229624c6",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Templates\\Yellow1.JPG",
+    "package_path": "integrated/Templates/Yellow1.JPG",
+    "sha256": "913c398777dbc800d272f1d1048457bc6d9e2c630998b58bc95b7d57ebcc05e4",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\Templates\\Yellow2.JPG",
+    "package_path": "integrated/Templates/Yellow2.JPG",
+    "sha256": "70d4dfabd7e7252162b919171008d6601b1eb60a79fddcc78faf0df471f540f5",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Color-Blank.jpg",
+    "package_path": "integrated/BoxTemplates/Color-Blank.jpg",
+    "sha256": "0dcbdb0aa8a29c447ee85684fbb3c610bb07071a7ef3e69f005eb7d840d7209e",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Color-Blue.jpg",
+    "package_path": "integrated/BoxTemplates/Color-Blue.jpg",
+    "sha256": "0b66edb7921c521ab8e7fbefe7e67121a11516ef10f55d9785bb48050dc88c94",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Color-Green.jpg",
+    "package_path": "integrated/BoxTemplates/Color-Green.jpg",
+    "sha256": "85d9bcf87a566f509dd44928afb4d431e83c335902fb0c2fc92db9efa895b376",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Color-Orange.jpg",
+    "package_path": "integrated/BoxTemplates/Color-Orange.jpg",
+    "sha256": "bf9a648c243b401c755df59a70621ce21732b5c67af45efb4e11c5520c940f0b",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Color-Purple.jpg",
+    "package_path": "integrated/BoxTemplates/Color-Purple.jpg",
+    "sha256": "b632fac448833ce2ae5b69bca6f2a586e2ed72df66dfb431baf61e5e03f48755",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Color-Red.jpg",
+    "package_path": "integrated/BoxTemplates/Color-Red.jpg",
+    "sha256": "5e14e82e6a9c952b7a4767a347f9049276428862de2e99701e76da617993cf6a",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Color-Yellow.jpg",
+    "package_path": "integrated/BoxTemplates/Color-Yellow.jpg",
+    "sha256": "7757b12924b7f0e201740ff3470df7f8693af17a57347c449a6ae5089f5b58ba",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\FullBox-Cams-Blank.jpg",
+    "package_path": "integrated/BoxTemplates/FullBox-Cams-Blank.jpg",
+    "sha256": "dae07cfa567c15272c0df00cea2e8ba5901a8cb4a871fa1df2b245b60020a10d",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\FullBox-Game-Blank.jpg",
+    "package_path": "integrated/BoxTemplates/FullBox-Game-Blank.jpg",
+    "sha256": "601431987efbf5b0e3911b1ba168aa288f2b8092a34d54ae7e1d6025e8210657",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\FullBox-Game.jpg",
+    "package_path": "integrated/BoxTemplates/FullBox-Game.jpg",
+    "sha256": "536cafe3f86e5e1dbfac9518af642c072e08c8870796532c3910fc84e14092de",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR0C0.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR0C0.jpg",
+    "sha256": "182b9c912d81d222f74ed13f8d3d96164ed1e43690f7171ae10d50bef96c321b",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR0C1.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR0C1.jpg",
+    "sha256": "06241f5d5c6385ee320374f3fe786ef45950a7771b35a723f40e962fcaa6bc88",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR0C2.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR0C2.jpg",
+    "sha256": "06241f5d5c6385ee320374f3fe786ef45950a7771b35a723f40e962fcaa6bc88",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR0C3.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR0C3.jpg",
+    "sha256": "c8ce8d0b35b5d5278721307debb92f9e033c478de0be58b424efdae290c2ad38",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR1C0.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR1C0.jpg",
+    "sha256": "789eaa41a20df05c3055272862b8fcc96ac9fc34eded66af7b2ed24c5b9a777a",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR1C1.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR1C1.jpg",
+    "sha256": "06241f5d5c6385ee320374f3fe786ef45950a7771b35a723f40e962fcaa6bc88",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR1C2.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR1C2.jpg",
+    "sha256": "4c49e3303f35fcd595d46983d7b9538815b2b8bfd0e18a2e8f5114d4988ac558",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR1C3.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR1C3.jpg",
+    "sha256": "06241f5d5c6385ee320374f3fe786ef45950a7771b35a723f40e962fcaa6bc88",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR2C0.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR2C0.jpg",
+    "sha256": "06241f5d5c6385ee320374f3fe786ef45950a7771b35a723f40e962fcaa6bc88",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR2C1.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR2C1.jpg",
+    "sha256": "f9653fea5600cdb994d1db40d8ff21f985b42b32b753e0c6e13f0ef561112e11",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR2C2.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR2C2.jpg",
+    "sha256": "06241f5d5c6385ee320374f3fe786ef45950a7771b35a723f40e962fcaa6bc88",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR2C3.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR2C3.jpg",
+    "sha256": "789eaa41a20df05c3055272862b8fcc96ac9fc34eded66af7b2ed24c5b9a777a",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR3C0.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR3C0.jpg",
+    "sha256": "c8ce8d0b35b5d5278721307debb92f9e033c478de0be58b424efdae290c2ad38",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR3C1.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR3C1.jpg",
+    "sha256": "06241f5d5c6385ee320374f3fe786ef45950a7771b35a723f40e962fcaa6bc88",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR3C2.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR3C2.jpg",
+    "sha256": "4bc284d4d132603a73f2429d3d6826353358c27d305138702300996b16dd5afb",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Raw-GameR3C3.jpg",
+    "package_path": "integrated/BoxTemplates/Raw-GameR3C3.jpg",
+    "sha256": "06241f5d5c6385ee320374f3fe786ef45950a7771b35a723f40e962fcaa6bc88",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\BoxTemplates\\Score-Blank.jpg",
+    "package_path": "integrated/BoxTemplates/Score-Blank.jpg",
+    "sha256": "13adf1cf7689717316df05c7f4a4293feee580eb5072eb4d8d21e37ff5a73b71",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Code-4-30\\Code-4-30\\LSM-TEMPLATE.jpg",
+    "package_path": "integrated/LSM-TEMPLATE.jpg",
+    "sha256": "7eee6556f46498ff15524afd6fe41aafeab742b037a0b3dab6617b4e3bc380b7",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Pics_Old Code C3\\OpenCV\\CannyEdge.py",
+    "package_path": "development/01-threshold/CannyEdge.py",
+    "sha256": "71f0981ea5e6602fb5a95b7d89ae9c84e2f178175fc5f751cb85a88b06a05e18",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Pics_Old Code C3\\OpenCV\\IMG_3937.jpg",
+    "package_path": "development/01-threshold/IMG_3937.jpg",
+    "sha256": "bd97d7989631c77711f5f3ba1b1934df153508934362e0ca4621516d960d18c2",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Custom-Cam-C(1)\\Custom-Cam-C\\Rotation.py",
+    "package_path": "development/02-rotation/Rotation.py",
+    "sha256": "25878a40bd179d9b188df0ca57c625bd87deffa3a087d0bd7993265929df0d99",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Custom-Cam-C(1)\\Custom-Cam-C\\roi2.png",
+    "package_path": "development/02-rotation/roi2.png",
+    "sha256": "cdd4ffb03a039f831cc4c83a4fafaa0d1ca8b5d3a97d9507135f2548d3d0e252",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Custom-Cam-C(1)\\Custom-Cam-C\\C-Cubed-Main.py",
+    "package_path": "development/03-recognition/C-Cubed-Main.py",
+    "sha256": "bab7b296d72e4da48226a18929720727aa821f736161777113792bf6c46b5b89",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Custom-Cam-C(1)\\Custom-Cam-C\\Subroutine.py",
+    "package_path": "development/03-recognition/Subroutine.py",
+    "sha256": "9813ead1e054a28812327ffd1e56024f1872eda6845a686f25052c7c232ccc33",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Custom-Cam-C(1)\\Custom-Cam-C\\subroutine_1.py",
+    "package_path": "development/03-recognition/subroutine_1.py",
+    "sha256": "43a570bada0f3963f5f0071c7a496c18f5d7b5f7ec30c30b4ee7958c7d59c854",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Custom-Cam-C(1)\\Custom-Cam-C\\Arduino.py",
+    "package_path": "development/03-recognition/Arduino.py",
+    "sha256": "796dc68155a19154994642c4525d34280fbdb4241b53098bfe4d54bd3ea854de",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Custom-Cam-C(1)\\Custom-Cam-C\\sample.png",
+    "package_path": "development/03-recognition/sample.png",
+    "sha256": "843da3e92c14f18deb6a7961e0228bf3b340f3a49c15d9491bb74fd557094bcd",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Custom-Cam-C(1)\\Custom-Cam-C\\template.png",
+    "package_path": "development/03-recognition/template.png",
+    "sha256": "772125563c1f0c23fefbc51b602ae9aabef9bec55c8efc00b4ad8a66b7ff09ba",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Report-Gen\\Report-Gen\\Report-Gen.py",
+    "package_path": "development/04-report/Report-Gen.py",
+    "sha256": "db7d445fb07b04646cbcd5aa734147c70fb596ee655269e491ff8f3b7e918676",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Report-Gen\\Report-Gen\\4x4.png",
+    "package_path": "development/04-report/4x4.png",
+    "sha256": "c6a10439524101e8fe52b08aa2a3e907d6deaa31ee3f9d8aa3d0fbd80e303258",
+    "drive_ids_removed": false
+  },
+  {
+    "source": "expanded\\Report-Gen\\Report-Gen\\LSM-Report-Blank.jpg",
+    "package_path": "development/04-report/LSM-Report-Blank.jpg",
+    "sha256": "2d50ae6efacdfee75463ed2cc303d214743ba9f8eb5a6196042b616224bad17a",
+    "drive_ids_removed": false
+  }
+]
